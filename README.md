@@ -1,3 +1,6 @@
 # ROGUEOUTCAST1BEAMWASH
 
-![ROGUEOUTCAST1BEAMWASH](https://github.com/Chauvet-Pro/ROGUEOUTCAST1BEAMWASH/blob/9982819cc03641a0c588c75ed6e031f055585d4e/ROGUE%20OUTCAST%201%20BEAMWASH-RIGHT-BLUE-RING.png)
+## Software Versions
+
+[V1.240506 - Rogue Outcast 1 Beam Wash](https://github.com/Chauvet-Pro/ROGUEOUTCAST1BEAMWASH/blob/1a5889ef97d5b7caa47274b39f0e9d7b17f9c344/firmware/V1.240506.zip)
+- Added RGB power adjustment for the ring
