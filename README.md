@@ -51,4 +51,4 @@
 ### Special Notes
 * Place the .chl file in the root directory of the USB drive.
 * The product's USB port supports up to 32GB capacity and only works with FAT32 file format.
-* Turning off the power or removing the USB while still blinking during the update will cause partial or total firmware failure in the targeted fixture(s). If this occurs, the user will need the **UPLOAD 08** device to fix this. Please contact Chauvet for help regarding this device.
+* Turning off the power or removing the USB while still blinking during the update will cause partial or total firmware failure in the targeted fixture(s). If this occurs, the user will need the **UPLOAD 08** device to fix this. 
