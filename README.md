@@ -2,10 +2,6 @@
 
 ## Software Versions
 
-[V1.240506 - Rogue Outcast 1 BeamWash](https://github.com/Chauvet-Pro/ROGUEOUTCAST1BEAMWASH/blob/1a5889ef97d5b7caa47274b39f0e9d7b17f9c344/firmware/V1.240506.zip)
-- Added RGB power adjustment for the ring
-- Fixed bug to keep color consistent between plate and ring
-
 [V1.230727 - Rogue Outcast 1 BeamWash](https://github.com/Chauvet-Pro/ROGUEOUTCAST1BEAMWASH/blob/c9ca3661b85e0db7bde2020e72a10a8f42e59398/firmware/V1.230727.zip)
 - Added dimmer channel improvements
 
