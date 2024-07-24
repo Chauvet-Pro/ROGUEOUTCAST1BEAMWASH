@@ -1,4 +1,4 @@
-# ROGUEOUTCAST1BEAMWASH
+# Rogue Outcast 1 BeamWash
 
 ## Software Versions
 
