@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250121 - Rogue Outcast 1 BeamWash](https://github.com/Chauvet-Pro/ROGUEOUTCAST1BEAMWASH/blob/main/firmware/V1.250121.zip)
+- Improved color matching and mixing
+
 [V1.240718 - Rogue Outcast 1 BeamWash](https://github.com/Chauvet-Pro/ROGUEOUTCAST1BEAMWASH/blob/bd2ace8f8e3b25fde061694296d64dad27f1a02a/firmware/V1.240718.zip)
 - Improved dimming performance
 - Added separate ring and center LED power adjustment
