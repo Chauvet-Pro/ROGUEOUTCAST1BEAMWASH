@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250121 - Rogue Outcast 1 BeamWash](https://github.com/Chauvet-Pro/ROGUEOUTCAST1BEAMWASH/blob/83752f4ad736aaf58c1b03c42b44b14c84b1341d/firmware/V1.250121.zip)
+- Improved color matching and mixing
+
 [V1.241125 - Rogue Outcast 1 BeamWash](https://github.com/Chauvet-Pro/ROGUEOUTCAST1BEAMWASH/blob/089559f9f397815cb23214f6ab8851cd21ba5f3d/firmware/V1.241125.zip)
 - Add 2 steps standalone program
 
