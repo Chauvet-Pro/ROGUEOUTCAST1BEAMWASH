@@ -2,6 +2,10 @@
 
 ## Software Versions
 
+[V1.251216 - Rogue Outcast 1 BeamWash](https://github.com/Chauvet-Pro/ROGUEOUTCAST1BEAMWASH/blob/0afaf8479ac3dc1f73a1b6c9fccc68432d46b1f9/firmware/V1.251216.zip)
+- Fixes color shift when RGBW changes from 0 to 255 all together.
+- Deletes custom white mode option in menu, changes 232-239 in control channel to reserved. 
+
 [V1.250121 - Rogue Outcast 1 BeamWash](https://github.com/Chauvet-Pro/ROGUEOUTCAST1BEAMWASH/blob/83752f4ad736aaf58c1b03c42b44b14c84b1341d/firmware/V1.250121.zip)
 - Improved color matching and mixing
 
